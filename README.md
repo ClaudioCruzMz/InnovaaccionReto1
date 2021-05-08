@@ -41,4 +41,22 @@ Es el grado en el que un sistema es capaz de adaptarse a los cambios de la carga
 
 Ésta es una referencia a los servicios en los que el proveedor de la nube mide o supervisa la prestación de servicios por diversas razones, incluida la facturación, el uso eficaz de los recursos o la planificación predictiva general.
 
+### Modelos de Servicio
 
+#### Software as a Service (SaaS)
+
+Es un modelo donde todo lo gestiona el vendedor. No puede programar nada usted mismo, solo lo configura y usa a través de un navegador web. Algunos ejemplos comunes son:
+
+ 1 Servicios de Google como Documentos
+
+ 2 Calendario y Hojas de cálculo o Office 365 de Microsoft.
+
+ Estos brindan al usuario solo opciones limitadas para configurar el software. Muchas aplicaciones empresariales entran en esta categoría, como SuccessFactors de SAP, Oracle HCM, ServiceNow, Zendesk y más.
+
+#### Platform as a Service (PaaS)
+
+Son plataformas que el consumidor puede utilizar para programar aplicaciones. Es posible escribir código y configurar el servicio, pero el proveedor administra la infraestructura subyacente.
+
+#### Infrastructure as a Service (IaaS)
+
+Es la forma más básica donde se proporcionan recursos informáticos básicos y el consumidor instala y administra el software necesario. Este modelo ofrece el mayor control, pero también requiere más trabajo.
