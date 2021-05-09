@@ -60,3 +60,23 @@ Son plataformas que el consumidor puede utilizar para programar aplicaciones. Es
 #### Infrastructure as a Service (IaaS)
 
 Es la forma más básica donde se proporcionan recursos informáticos básicos y el consumidor instala y administra el software necesario. Este modelo ofrece el mayor control, pero también requiere más trabajo.
+
+
+### Deployment Models
+
+#### Nube Privada
+
+Los servicios en la nube se ofrecen en una infraestructura privada.pierde la mayoría, si no todos, de los beneficios de la nube. Básicamente, es solo otra forma de ejecutar un centro de datos local. 
+
+#### Nube Comunitaria
+
+Es cuando una comunidad específica de consumidores se une para construir una nube que pueden usar de manera similar a la nube privada. Hace una década era más comun.
+
+#### Nube Publica
+
+Es el modelo común que todos conocemos. Prácticamente toda la computación en la nube hoy en día se implementa de acuerdo con este modelo. Un usuario puede acceder y utilizar esto a través de la Internet pública.
+
+#### Nube Hybrida
+
+Es una combinación de dos o más de estos
+modelo.Sin embargo, la idea de una nube híbrida en un sentido diferente es mucho más común, ya que la mayoría de las organizaciones ejecutan infraestructuras híbridas con múltiples proveedores de nube y sus propios centros de datos (no en la nube)
