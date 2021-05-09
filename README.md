@@ -80,3 +80,18 @@ Es el modelo común que todos conocemos. Prácticamente toda la computación en 
 
 Es una combinación de dos o más de estos
 modelo.Sin embargo, la idea de una nube híbrida en un sentido diferente es mucho más común, ya que la mayoría de las organizaciones ejecutan infraestructuras híbridas con múltiples proveedores de nube y sus propios centros de datos (no en la nube)
+
+### Docker
+
+Es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos
+
+### Kubernete
+
+Kubernetes es una plataforma portable y extensible de código abierto para administrar cargas de trabajo y servicios. 
+
+Kubernetes tiene varias características. Puedes pensar en Kubernetes como:
+
+  
+1 una plataforma de contenedores
+2 una plataforma de microservicios
+3 una plataforma portable de nube
