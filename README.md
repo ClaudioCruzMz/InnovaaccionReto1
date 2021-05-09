@@ -93,5 +93,7 @@ Kubernetes tiene varias características. Puedes pensar en Kubernetes como:
 
   
 1 una plataforma de contenedores
+
 2 una plataforma de microservicios
+
 3 una plataforma portable de nube
